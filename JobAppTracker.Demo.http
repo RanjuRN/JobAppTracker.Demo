@@ -1,0 +1,166 @@
+@JobAppTracker.Demo_HostAddress = https://localhost:7208
+
+GET {{JobAppTracker.Demo_HostAddress}}/api/jobtrackers
+Accept: application/json
+
+###
+
+POST {{JobAppTracker.Demo_HostAddress}}/api/jobtrackers
+Content-Type: application/json
+
+{
+  
+
+  
+  "JobRefID":"100001",
+  "JobRole": "Full Stack Developer",
+  "JobSummary": "Develop and maintain web applications",
+        
+  "JobType": "Internal",
+
+  "JobApplicationStatus": "Applied"
+  
+}
+
+###
+
+POST {{JobAppTracker.Demo_HostAddress}}/api/jobtrackers
+Content-Type: application/json
+
+{
+  //JobTracker
+}
+
+###
+
+POST {{JobAppTracker.Demo_HostAddress}}/api/jobtrackers
+Content-Type: application/json
+
+{
+  //JobTracker
+}
+
+###
+
+POST {{JobAppTracker.Demo_HostAddress}}/api/jobtrackers
+Content-Type: application/json
+
+{
+  //JobTracker
+}
+
+###
+
+POST {{JobAppTracker.Demo_HostAddress}}/api/jobtrackers
+Content-Type: application/json
+
+{
+  //JobTracker
+}
+
+###
+
+GET {{JobAppTracker.Demo_HostAddress}}/api/jobtrackers
+
+###
+
+GET {{JobAppTracker.Demo_HostAddress}}/api/jobtrackers
+
+###
+
+GET {{JobAppTracker.Demo_HostAddress}}/api/jobtrackers
+
+###
+
+GET {{JobAppTracker.Demo_HostAddress}}/api/jobtrackers
+
+###
+
+GET {{JobAppTracker.Demo_HostAddress}}/api/jobtrackers
+
+###
+
+GET {{JobAppTracker.Demo_HostAddress}}/api/jobtrackers
+
+###
+
+@id=0
+GET {{JobAppTracker.Demo_HostAddress}}/api/jobtrackers/{{id}}
+
+###
+
+POST {{JobAppTracker.Demo_HostAddress}}/api/jobtrackers
+Content-Type: application/json
+
+{
+  //JobTracker
+}
+
+###
+
+POST {{JobAppTracker.Demo_HostAddress}}/api/jobtrackers
+Content-Type: application/json
+
+{
+  //JobTracker
+}
+
+###
+
+POST {{JobAppTracker.Demo_HostAddress}}/api/jobtrackers
+Content-Type: application/json
+
+{
+  //JobTracker
+}
+
+###
+
+POST {{JobAppTracker.Demo_HostAddress}}/api/jobtrackers
+Content-Type: application/json
+
+{
+  //JobTracker
+}
+
+###
+
+POST {{JobAppTracker.Demo_HostAddress}}/api/jobtrackers
+Content-Type: application/json
+
+{
+  //JobTracker
+}
+
+###
+
+POST {{JobAppTracker.Demo_HostAddress}}/api/jobtrackers
+Content-Type: application/json
+
+{
+  //JobTracker
+}
+
+###
+
+POST {{JobAppTracker.Demo_HostAddress}}/api/jobtrackers
+Content-Type: application/json
+
+{
+  //JobTracker
+}
+
+###
+
+POST {{JobAppTracker.Demo_HostAddress}}/api/jobtrackers
+Content-Type: application/json
+
+{
+  //JobTracker
+}
+
+###
+
+GET {{JobAppTracker.Demo_HostAddress}}/api/jobtrackers
+
+###

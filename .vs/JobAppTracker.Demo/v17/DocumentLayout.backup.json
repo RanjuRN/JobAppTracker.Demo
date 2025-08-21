@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Learning\\JobAppTracker.Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E62F23A-F931-46F8-B389-F246EFB1FE24}|JobAppTracker.Demo.csproj|e:\\learning\\jobapptracker.demo\\controllers\\jobtrackerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E62F23A-F931-46F8-B389-F246EFB1FE24}|JobAppTracker.Demo.csproj|solutionrelative:controllers\\jobtrackerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E62F23A-F931-46F8-B389-F246EFB1FE24}|JobAppTracker.Demo.csproj|e:\\learning\\jobapptracker.demo\\model\\jobtrackercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E62F23A-F931-46F8-B389-F246EFB1FE24}|JobAppTracker.Demo.csproj|solutionrelative:model\\jobtrackercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E62F23A-F931-46F8-B389-F246EFB1FE24}|JobAppTracker.Demo.csproj|e:\\learning\\jobapptracker.demo\\model\\jobtracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E62F23A-F931-46F8-B389-F246EFB1FE24}|JobAppTracker.Demo.csproj|solutionrelative:model\\jobtracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E62F23A-F931-46F8-B389-F246EFB1FE24}|JobAppTracker.Demo.csproj|e:\\learning\\jobapptracker.demo\\jobapptracker.demo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2E62F23A-F931-46F8-B389-F246EFB1FE24}|JobAppTracker.Demo.csproj|solutionrelative:jobapptracker.demo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E62F23A-F931-46F8-B389-F246EFB1FE24}|JobAppTracker.Demo.csproj|e:\\learning\\jobapptracker.demo\\constants\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E62F23A-F931-46F8-B389-F246EFB1FE24}|JobAppTracker.Demo.csproj|solutionrelative:constants\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E62F23A-F931-46F8-B389-F246EFB1FE24}|JobAppTracker.Demo.csproj|e:\\learning\\jobapptracker.demo\\migrations\\20250818171423_jobtrackerdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E62F23A-F931-46F8-B389-F246EFB1FE24}|JobAppTracker.Demo.csproj|solutionrelative:migrations\\20250818171423_jobtrackerdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E62F23A-F931-46F8-B389-F246EFB1FE24}|JobAppTracker.Demo.csproj|e:\\learning\\jobapptracker.demo\\migrations\\20250820100517_jobtrackerdemodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E62F23A-F931-46F8-B389-F246EFB1FE24}|JobAppTracker.Demo.csproj|solutionrelative:migrations\\20250820100517_jobtrackerdemodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E62F23A-F931-46F8-B389-F246EFB1FE24}|JobAppTracker.Demo.csproj|e:\\learning\\jobapptracker.demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E62F23A-F931-46F8-B389-F246EFB1FE24}|JobAppTracker.Demo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E62F23A-F931-46F8-B389-F246EFB1FE24}|JobAppTracker.Demo.csproj|e:\\learning\\jobapptracker.demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E62F23A-F931-46F8-B389-F246EFB1FE24}|JobAppTracker.Demo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250818171423_JobTrackerDemo.cs",
+              "DocumentMoniker": "E:\\Learning\\JobAppTracker.Demo\\Migrations\\20250818171423_JobTrackerDemo.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250818171423_JobTrackerDemo.cs",
+              "ToolTip": "E:\\Learning\\JobAppTracker.Demo\\Migrations\\20250818171423_JobTrackerDemo.cs",
+              "RelativeToolTip": "Migrations\\20250818171423_JobTrackerDemo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:01:29.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobTrackerContext.cs",
+              "DocumentMoniker": "E:\\Learning\\JobAppTracker.Demo\\Model\\JobTrackerContext.cs",
+              "RelativeDocumentMoniker": "Model\\JobTrackerContext.cs",
+              "ToolTip": "E:\\Learning\\JobAppTracker.Demo\\Model\\JobTrackerContext.cs",
+              "RelativeToolTip": "Model\\JobTrackerContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:01:01.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "E:\\Learning\\JobAppTracker.Demo\\Constants\\Constants.cs",
+              "RelativeDocumentMoniker": "Constants\\Constants.cs",
+              "ToolTip": "E:\\Learning\\JobAppTracker.Demo\\Constants\\Constants.cs",
+              "RelativeToolTip": "Constants\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T10:24:23.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobAppTracker.Demo.http",
+              "DocumentMoniker": "E:\\Learning\\JobAppTracker.Demo\\JobAppTracker.Demo.http",
+              "RelativeDocumentMoniker": "JobAppTracker.Demo.http",
+              "ToolTip": "E:\\Learning\\JobAppTracker.Demo\\JobAppTracker.Demo.http",
+              "RelativeToolTip": "JobAppTracker.Demo.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-20T10:21:22.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobTracker.cs",
+              "DocumentMoniker": "E:\\Learning\\JobAppTracker.Demo\\Model\\JobTracker.cs",
+              "RelativeDocumentMoniker": "Model\\JobTracker.cs",
+              "ToolTip": "E:\\Learning\\JobAppTracker.Demo\\Model\\JobTracker.cs",
+              "RelativeToolTip": "Model\\JobTracker.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:18:33.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobTrackersController.cs",
+              "DocumentMoniker": "E:\\Learning\\JobAppTracker.Demo\\Controllers\\JobTrackersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JobTrackersController.cs",
+              "ToolTip": "E:\\Learning\\JobAppTracker.Demo\\Controllers\\JobTrackersController.cs",
+              "RelativeToolTip": "Controllers\\JobTrackersController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T10:14:36.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250820100517_JobTrackerDemoDataBase.cs",
+              "DocumentMoniker": "E:\\Learning\\JobAppTracker.Demo\\Migrations\\20250820100517_JobTrackerDemoDataBase.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250820100517_JobTrackerDemoDataBase.cs",
+              "ToolTip": "E:\\Learning\\JobAppTracker.Demo\\Migrations\\20250820100517_JobTrackerDemoDataBase.cs",
+              "RelativeToolTip": "Migrations\\20250820100517_JobTrackerDemoDataBase.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:01:24.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Learning\\JobAppTracker.Demo\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Learning\\JobAppTracker.Demo\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-20T09:59:57.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Learning\\JobAppTracker.Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Learning\\JobAppTracker.Demo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T10:09:52.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
