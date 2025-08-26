@@ -20,8 +20,10 @@ var connString = builder.Configuration.GetConnectionString("DefaultConnection") 
 builder.Services.AddDbContext<JobTrackerContext>(options => options.UseSqlServer(connString));
 
 var app = builder.Build();
+
+var isSwaggerEnabled = builder.Configuration.GetValue<bool>("SwaggerUI");
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
+if (app.Environment.IsDevelopment() || isSwaggerEnabled)
 {
     app.UseSwagger();
     app.UseSwaggerUI();
