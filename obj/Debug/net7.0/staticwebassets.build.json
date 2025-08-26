@@ -1,1 +1,11 @@
-{"Version":1,"Hash":"WHY9SS81xeiM7XwyKN0nEuNzvP9JwHVOrLDalabGeuY=","Source":"JobAppTracker.Demo","BasePath":"_content/JobAppTracker.Demo","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
+{
+  "Version": 1,
+  "Hash": "dqDyPflnW3wSz9mt6x7+U8tRghkFP1jpwjeKuTB+C00=",
+  "Source": "JobAppTracker.Demo",
+  "BasePath": "_content/JobAppTracker.Demo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
