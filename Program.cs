@@ -13,14 +13,14 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-/*var connString = builder.Configuration.GetConnectionString("DefaultConnectionOrig") ??
-    throw new InvalidOperationException("Connection string not found.");*/
-
-var connStringSqlLite = builder.Configuration.GetConnectionString("DefaultConnection") ??
+var connString = builder.Configuration.GetConnectionString("DefaultConnectionOrig") ??
     throw new InvalidOperationException("Connection string not found.");
 
-//builder.Services.AddDbContext<JobTrackerContext>(options => options.UseSqlServer(connString));
-builder.Services.AddDbContext<JobTrackerContext>(options => options.UseSqlite(connStringSqlLite));
+/*var connStringSqlLite = builder.Configuration.GetConnectionString("DefaultConnection") ??
+    throw new InvalidOperationException("Connection string not found.");*/
+
+builder.Services.AddDbContext<JobTrackerContext>(options => options.UseSqlServer(connString));
+//builder.Services.AddDbContext<JobTrackerContext>(options => options.UseSqlite(connStringSqlLite));
 
 var app = builder.Build();
 
