@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
 
-namespace JobAppTracker.Demo.Migrations
+namespace JobAppTracker.Demo.SqlServerMigrations
 {
     [DbContext(typeof(JobTrackerContext))]
     partial class JobTrackerContextModelSnapshot : ModelSnapshot

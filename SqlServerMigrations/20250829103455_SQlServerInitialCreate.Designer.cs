@@ -8,11 +8,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
 
-namespace JobAppTracker.Demo.Migrations
+namespace JobAppTracker.Demo.SqlServerMigrations
 {
     [DbContext(typeof(JobTrackerContext))]
-    [Migration("20250820100517_JobTrackerDemoDataBase")]
-    partial class JobTrackerDemoDataBase
+    [Migration("20250829103455_SQlServerInitialCreate")]
+    partial class SQlServerInitialCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

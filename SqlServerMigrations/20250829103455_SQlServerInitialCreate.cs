@@ -2,10 +2,10 @@
 
 #nullable disable
 
-namespace JobAppTracker.Demo.Migrations
+namespace JobAppTracker.Demo.SqlServerMigrations
 {
     /// <inheritdoc />
-    public partial class JobTrackerDemo : Migration
+    public partial class SQlServerInitialCreate : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
