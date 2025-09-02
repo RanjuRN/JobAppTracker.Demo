@@ -1,0 +1,32 @@
+﻿name: jobapptracker
+
+services:
+  webapi:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    container_name: jobapptracker
+    ports: 
+      - "8080:8080"
+    env_file: 
+      - ./compose.env
+    depends_on: 
+      - sqlserver
+    networks: 
+      - jobapptrackernet
+
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: mssql
+    ports: 
+      - "1433:1433"
+    environment:
+      - SA_PASSWORD=${SQL_SERVER_PASSWORD}
+      - ACCEPT_EULA=Y
+    env_file: 
+      - ./compose.env
+    networks: 
+      - jobapptrackernet
+
+networks:
+  jobapptrackernet:
